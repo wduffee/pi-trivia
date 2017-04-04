@@ -1,2 +1,2 @@
 # pi-trivia
-Use a Raspberry Pi for a Jeopardy-style game night
+Use a Raspberry Pi for a triva game night
